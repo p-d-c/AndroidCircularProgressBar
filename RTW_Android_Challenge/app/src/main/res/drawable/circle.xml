@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+    </item>
+</layer-list>
+
+<!-- circle from https://www.thecrazyprogrammer.com/2016/10/android-round-button-example.html -->
+<!--layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape
+            android:shape="oval"
+            android:innerRadius="3dp"
+            android:thicknessRatio="15"
+            android:useLevel="false" >
+            <solid android:color="@color/colorAccent" />
+            <size
+                android:height="5dip"
+                android:width="5dip" />
+        </shape>
+    </item>
+
+    <item>
+    <shape
+        android:innerRadiusRatio="2"
+        android:shape="ring"
+        android:thicknessRatio="15"
+        android:useLevel="false" >
+        <solid android:color="@color/colorPrimaryDark" />
+        <size
+            android:height="5dp"
+            android:width="5dp" />
+    </shape>
+
+</item>
+
+</layer-list-->
+<!--item>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="ring"
+    android:innerRadius="0dp"
+    android:thickness="55dp"
+    android:useLevel="false">
+    <solid android:color="@color/colorPrimary"/>
+    <size android:height="200dp"
+        android:width="200dp"/>
+    <stroke android:color="@color/colorAccent" android:width="5dp"/>
+</shape>
+</item>
+</layer-list>
+
+
+    <!- circle from  https://www.zoftino.com/android-shape-drawable-examples -->
+<!-- <shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:innerRadius="0dp"
+    android:shape="ring"
+    android:thickness="40dp"
+    android:useLevel="false">
+    <solid android:color="@color/black" />
+    <padding
+        android:bottom="50dp"
+        android:top="50dp"/>
+</shape> -->
