@@ -5,6 +5,8 @@ Last updated: March 2020
 Languages: Kotlin, Java
 Software: Android Studio
 
+![AndroidCircularProgressBar](https://user-images.githubusercontent.com/34993622/92413647-e35ee900-f105-11ea-9319-8b930566672c.gif)
+
 
 Notes:
 
