@@ -1,14 +1,15 @@
 package com.example.rtw_android_challenge
 
-import android.widget.ProgressBar
-import androidx.appcompat.app.AppCompatActivity
-import android.view.animation.*
+import android.animation.AnimatorSet
+import android.animation.ObjectAnimator
+import android.animation.ValueAnimator
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity;
 import android.view.MotionEvent
 import android.view.View
-import android.animation.*
+import android.view.animation.DecelerateInterpolator
 import android.widget.ImageView
-import android.animation.ValueAnimator
+import android.widget.ProgressBar
 
 
 class MainActivity : AppCompatActivity() {
